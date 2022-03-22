@@ -3,6 +3,8 @@
     height: 944px;
     background: rgba(255, 153, 0, 0.3);
     margin-left: 60px;
+    position: sticky;
+    top: 0;
 }
 .cart-container>h3{
     text-align: center;
